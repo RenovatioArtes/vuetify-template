@@ -8,8 +8,8 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
-  props: ['msg'],
+  name: "HelloWorld",
+  props: ["msg"],
   data: () => ({
     ecosystem: []
   })
